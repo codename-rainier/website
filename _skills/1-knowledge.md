@@ -1,7 +1,7 @@
 ---
 
-title: "Knowledge Areas"
+title: "Auto Body & Paint"
 
 --- 
 
-You can put a bunch of stuff here.
+Dupont certified
