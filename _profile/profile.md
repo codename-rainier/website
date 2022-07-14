@@ -6,6 +6,7 @@ location: "Where I Need To Be"
 country: Philippines
 zodiac: Sagittarius
 born: 1975 Wood Rabbit
+personality: Assertive Protagonist (ENFJ-A)
 email: "rainier.carrasco@yahoo.com"
 Youtube: "https://www.youtube.com/channel/UC1kUCp2f4ETC1s6jYOHXNKw"
 twitter: "@meontwitter"
