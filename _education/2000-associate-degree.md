@@ -1,8 +1,8 @@
 ---
 
-period: 2000-2003 
-institution: Community College
-title: "Associate Degree"
+period: 1990-1995
+institution: Ateneo De Manila 
+title: "High School"
 
 ---
 
