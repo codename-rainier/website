@@ -2,9 +2,9 @@
 ---
 
 layout: null 
-period:
-institution:
-title:
+period: 2023
+institution: Holland College Canada
+title: CIS
 
 ---
 
