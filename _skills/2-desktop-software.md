@@ -1,7 +1,7 @@
 ---
 
-title: "Desktop Software"
+title: "Automotive Technician"
 
 --- 
 
-Like the kinds of apps you can use (don't put Candy Crush.... not on a resume)
+From basic maintenance to complete engine rebuilds
