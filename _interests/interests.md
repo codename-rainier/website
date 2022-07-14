@@ -1,7 +1,7 @@
 ---
 
-title: "Current Hobbies & Interests"
+title: "Hobbies & Interests"
 
 ---
 
-Put your personal hobbies and interests in this sections to show people that your human and at least a little bit normal. 
+I love dogs, biking, hiking, photography, RC related stuff and fixing cars
