@@ -1,9 +1,9 @@
 ---
 
 layout: null 
-period: 2006-2006 
-institution: Awesome University
-title: "Bachelor Arts (Design)"
+period: 1995-1999 
+institution: De La Salle University
+title: "BA-Economics & BS-Legal Management"
 
 ---
 
