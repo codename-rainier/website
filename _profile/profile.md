@@ -5,13 +5,13 @@ name: Rainier Moguel Carrasco
 location: "Where I Need To Be"
 country: Philippines
 email: "rainier.carrasco@yahoo.com"
-Youtube: "[@Rainier Carrasco](https://www.youtube.com/channel/UC1kUCp2f4ETC1s6jYOHXNKw)"
-[//]: # (twitter: "@meontwitter")
-[//]: # (blog: "https://wordpress.com/")
-[//]: # (linkedin: "http://www.linkedin.com/")
-[//]: # (github: "https://github.com/")
-[//]: # (flickr: "https://www.flickr.com/")
-[//]: # (slideshare: "http://slideshare.net/")
+Youtube: "https://www.youtube.com/channel/UC1kUCp2f4ETC1s6jYOHXNKw"
+twitter: "@meontwitter"
+blog: "https://wordpress.com/"
+linkedin: "http://www.linkedin.com/"
+github: "https://github.com/"
+flickr: "https://www.flickr.com/"
+slideshare: "http://slideshare.net/"
 
 
 ---
