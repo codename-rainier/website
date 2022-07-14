@@ -37,7 +37,7 @@ colour:
     text: 1a1a1a # sets text colour
     alternatestripe: 263248 # sets the alternate background stripe
     
-bgimage: "wisar2.jpg" # set hero image here. add file name and place in Images folder
+bgimage: "Wisar2.jpg" # set hero image here. add file name and place in Images folder
 
 # Build settings
 markdown: kramdown
