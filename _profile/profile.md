@@ -5,7 +5,7 @@ name: Rainier Moguel Carrasco
 location: "Where I Need To Be"
 country: Philippines
 zodiac: Sagittarius
-chinese_zodiac: Wood Rabbit
+born: 1975 Wood Rabbit
 email: "rainier.carrasco@yahoo.com"
 Youtube: "https://www.youtube.com/channel/UC1kUCp2f4ETC1s6jYOHXNKw"
 twitter: "@meontwitter"
