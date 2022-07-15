@@ -1,7 +1,7 @@
 ---
 
 period: "2018"
-projecttype: Project Type
+projecttype: Thesis (Best Thesis)
 title: "Automated Trashbin"
 
 ---
