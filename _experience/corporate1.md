@@ -1,9 +1,9 @@
 ---
 
-period: "Jan 2015 - Present"
-employer: Your Employer
-title: "Position Title"
+period: "1999 - 2010"
+employer: NLRC, LSMM, Eastern Telecom, DHL Express, Bayantel
+title: "From Trainee to District Sales Manager"
 
 ---
 
-Provide expert contributions to the imagination, incubation and showcasing of innovations or whatever it is you do day to day. 
+Feel free to view the publications section for my complete Curriculum Vitae
