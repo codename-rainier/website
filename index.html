@@ -69,8 +69,8 @@ _________________________________________ -->
             
         <h3>{{ experience.title }}</h3>
             {{ experience.content }}
-    </div> 
-    </div>
+        </div> 
+     </div>
 {% endfor %}
     </div>
 </section>    
@@ -79,7 +79,7 @@ _________________________________________ -->
 
 <!-- Added Projects -->
 
-<section class="u-full-width" id="projects"> 
+<section class="u-full-width" id="project"> 
 <!-- Info below is the section heading and tagline -->
     <div class="container" align="center">  
     <div class="headline" align="center">
@@ -95,12 +95,12 @@ _________________________________________ -->
             <div class="five columns">
                 <h2 class="date">{{ projects.period }}</h2>
                 <h4 class="projecttype">{{ projects.projecttype }}</h4>
-        </div>
+            </div>
         <div class="seven columns">
 <!-- Info below is drawn in from the YAML title: and the content from the actual .md -->
         <h3>{{ projects.title }}</h3>
             {{ projects.content }}
-    </div> 
+        </div> 
     </div>
 {% endfor %}
     </div>
