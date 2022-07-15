@@ -1,6 +1,6 @@
 ---
 
-title: "Softwaare Developer Resume" 
+title: "Software Developer Resume" 
 authors: "Rainier Carrasco"
 publisher: Concise Version
 published-date: Updated July 2022
