@@ -1,7 +1,7 @@
 ---
 
 period: "1999 - 2010"
-employer: NLRC, LSMM, Eastern Telecom, DHL Express, Bayantel
+employer: Bayantel, DHL Express, Eastern Telecom 
 title: "From Trainee to District Sales Manager"
 
 ---
