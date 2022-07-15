@@ -1,7 +1,7 @@
 ---
 
 period: "2018"
-employer: Project Type
+project: Project Type
 title: "Automated Trashbin"
 
 ---
