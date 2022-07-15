@@ -19,9 +19,9 @@ collections:
     experience:
         output: false
         title: Experience
-    project:
+    projects:
         output: false
-        title: Project
+        title: Projects
     interests:
         output: false
         title: Interest
