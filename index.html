@@ -118,7 +118,7 @@ _________________________________________ -->
             
             
  
-{% for certificates in site.certificates %}
+{% for certificates in site.certificates reversed %}
     <div class="row">  
         <div class="five columns">
                 <h2 class="date">{{ certificates.issued }}</h2>
