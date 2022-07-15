@@ -1,9 +1,9 @@
 ---
 
-period: "Jan 2015 - Present"
-employer: Your Employer
-title: "Position Title"
+period: "2000 - Present"
+employer: Coachworx Garage, Zerosight General Merchandise, RMC Worldwide Trading Access
+title: "Business Owner"
 
 ---
 
-Provide expert contributions to the imagination, incubation and showcasing of innovations or whatever it is you do day to day. 
+Digitizing, Trading, Hustling to pursue my dreams
