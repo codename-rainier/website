@@ -1,7 +1,7 @@
 # Site settings
 title: "R M CARRASCO"
 tagline: "Codename.Rainier"
-description: "Welcome to the Resume Builder. You can create your own resume by adding a few markdown files, tweaking values in a a config file and changing some CSS"  
+description: "Welcome to my personal website! Please check the Publications section for more."  
 baseurl: "/website/" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
 
