@@ -118,14 +118,14 @@ _________________________________________ -->
             
             
  
-{% for award in site.certificates %}
+{% for award in site.award %}
     <div class="row">  
         <div class="five columns">
-                <h2 class="date">{{ certificates.issued }}</h2>
-                <h4 class="institution">{{ certificates.issuer }}</h4>
+                <h2 class="date">{{ award.issued }}</h2>
+                <h4 class="institution">{{ award.issuer }}</h4>
             </div>
          <div class="seven columns">
-            <h3>{{ certificates.title }}</h3>
+            <h3>{{ award.title }}</h3>
         </div>
     </div>
 
