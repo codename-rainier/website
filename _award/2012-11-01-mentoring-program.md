@@ -1,7 +1,7 @@
 ---
 
-issued: 2005
-issuer: DHL Express
-title: "Advanced Customer Management"
+issued: 2012-2013
+issuer: MFI Foundation & Dupont Phils
+title: "Automotive Repair & Body Paint Certs."
 
 ---
