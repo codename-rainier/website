@@ -118,14 +118,14 @@ _________________________________________ -->
             
             
  
-{% for certifications in site.certifications %}
+{% for certificates in site.certificates %}
     <div class="row">  
         <div class="five columns">
-                <h2 class="date">{{ certifications.issued }}</h2>
-                <h4 class="institution">{{ certifications.issuer }}</h4>
+                <h2 class="date">{{ certificates.issued }}</h2>
+                <h4 class="institution">{{ certificates.issuer }}</h4>
             </div>
          <div class="seven columns">
-            <h3>{{ certifications.title }}</h3>
+            <h3>{{ certificates.title }}</h3>
         </div>
     </div>
 
