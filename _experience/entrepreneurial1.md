@@ -1,7 +1,7 @@
 ---
 
 period: "2000 - Present"
-employer: Real Estate Investor, Coachworx Garage, Zerosight General Merchandise, RMC Worldwide Trading Access
+employer: Real Estate Investor | Coachworx Garage | Zerosight General Merchandise
 title: "Business Owner"
 
 ---
