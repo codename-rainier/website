@@ -1,9 +1,9 @@
 ---
 
-period: "Jan 2015 - Present"
-employer: Your Employer
-title: "Position Title"
+period: "2022 - Present"
+employer: UpWork
+title: "Remote Automotive Technician & VA"
 
 ---
 
-Provide expert contributions to the imagination, incubation and showcasing of innovations or whatever it is you do day to day. 
+Not getting underneath a vehicle won't stop me from contributing my automotive skills. Find me on UpWork for remote assistance!
