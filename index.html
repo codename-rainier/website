@@ -80,6 +80,52 @@ _________________________________________ -->
 
 </section>    
 
+
+
+<!-- Added Projects -->
+
+<section class="u-full-width" id="projects"> 
+
+<!-- Info below is the section heading and tagline -->
+   
+    <div class="container" align="center">  
+    <div class="headline" align="center">
+        <p><span>What Happens In The Lab</span></p>
+        <h2>Projects</h2>
+    </div>
+    </div>
+
+
+    <div class="container">    
+{% for projects in site.projects reversed %}
+
+<!-- Info below is drawn in from the YAML front end -->
+        
+    <div class="row">
+            <div class="five columns">
+                <h2 class="date">{{ projects.period }}</h2>
+                <h4 class="employer">{{ projects.employer }}</h4>
+        </div>
+        <div class="seven columns">
+            
+<!-- Info below is drawn in from the YAML title: and the content from the actual .md -->
+            
+        <h3>{{ projects.title }}</h3>
+            {{ projects.content }}
+    </div> 
+    </div>
+{% endfor %}
+        
+    </div>
+
+
+
+</section>    
+
+<!-- End Projects -->
+
+
+
 <section class="u-full-width" id="education"> 
     <div class="container" align="center">  
         <div class="headline" align="center">
