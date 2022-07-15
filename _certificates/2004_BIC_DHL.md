@@ -1,7 +1,7 @@
 ---
 
-issued: 2001
-issuer: DHL Expressions
+issued: 2004 | Singapore
+issuer: DHL Express
 title: "Best In Class"
 
 ---
