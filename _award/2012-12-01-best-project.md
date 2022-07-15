@@ -1,7 +1,7 @@
 ---
 
 issued: 2014
-issuer: DHL Express Phils.
+issuer: DHL Express
 title: "Best In Class"
 
 ---
