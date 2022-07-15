@@ -7,6 +7,9 @@ baseurl: "/website/" # the subpath of your site, e.g. /blog/
 
 # Collections-builder
 collections:
+    projects:
+        output: false
+        title: projects
     certificates:
         output: false
         title: Certificates
