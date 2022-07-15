@@ -4,6 +4,7 @@ layout: default
 name: Rainier Moguel Carrasco
 location: "Where I Need To Be"
 country: Philippines
+language: English & Filipino
 zodiac: Sagittarius
 born: 1975 Wood Rabbit
 personality: Assertive Protagonist (ENFJ-A)
