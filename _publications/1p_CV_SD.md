@@ -8,4 +8,4 @@ link: "/website/_downloads/1P_CV_RainierMCarrasco_SD.pdf"
 
 ---
 
-1page Softwaare Developer Resume
+1page Software Developer Resume
