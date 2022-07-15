@@ -1,11 +1,11 @@
 ---
 
-title: "My COmplete Curriculum Vitae - Corporate, Entrepreneurial backgound. Everything on my site & more!" 
+title: "My Complete Curriculum Vitae" 
 authors: "Rainier Carrasco"
-publisher: Full Version
+publisher: CV Full Version
 published-date: July 2022
-link: "#"
+link: "#website/_downloads/CV - Rainier Carrasco PDF.pdf"
 
 ---
 
-A quick summary of what you wrote up just in case someone might actually find it interesting.  Seriously.... you never know.
+My Corporate & Entrepreneurial backgound. Everything on my site & more!
