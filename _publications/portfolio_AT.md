@@ -2,10 +2,10 @@
 
 title: "Automotive Technician Portfolio" 
 authors: "Rainier Carrasco"
-publisher: Concise Version
+publisher: PDF Format
 published-date: Updated July 2022
 link: "https://github.com/codename-rainier/CVbin/raw/main/_downloads/portfolio_AT.pdf"
 
 ---
 
-Some of the work I've done through the years. Enjoy1
+Some of the work I've done through the years. Enjoy!
