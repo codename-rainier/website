@@ -34,6 +34,9 @@ collections:
     skills:
         output: false
         title: Skills
+    physics:
+        output: false
+        title: Physics
 
 # Colour Configuration
 
