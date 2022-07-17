@@ -8,4 +8,4 @@ link: "https://github.com/codename-rainier/CVbin/raw/main/_downloads/1P_CV_Raini
 
 ---
 
-My Resume as an Automotive Technician (Feel free to check out my Automotive Portfolio to see some of the rebuild work I've done)
+My Resume as an Automotive Technician (Feel free to check out my Automotive Technician Portfolio to see some of my work)
