@@ -8,6 +8,7 @@ language: English | Filipino
 zodiac: Sagittarius
 born: 1975 Wood Rabbit
 personality: Assertive Protagonist (ENFJ-A)
+favoritesong: [Always With Me, Always With You by Joe Satriani]"https://youtu.be/VI57QHL6ge0"
 email: "rainier.carrasco@yahoo.com"
 Youtube: "https://www.youtube.com/channel/UC1kUCp2f4ETC1s6jYOHXNKw"
 twitter: "@meontwitter"
