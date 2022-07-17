@@ -1,12 +1,13 @@
 ---
 
 title: "title in quotes"
+sample_link: [UGALI SA ISA, UGALI SA LAHAT]("https://github.com/codename-rainier/website")
 
 ---  
 
 WHEN THE GOING GETS TOUGH, THE TOUGH GETS GOING  
 
-A PROBLEM IS A COMPASS  
+USE A PROBLEM AS IF IT WAS A MORAL COMPASS  
 
 ALWAYS DO YOUR BEST  
 
@@ -20,7 +21,9 @@ DON'T SKIMP ON FOOD
 
 NASA DIYOS ANG AWA, NASA TAO ANG GAWA  
 
-[UGALI SA ISA, UGALI SA LAHAT]("https://github.com/codename-rainier/website")
+UGALI SA ISA, UGALI SA LAHAT  
+
+BUMABA KA SA BUNDOK
 
 
 
