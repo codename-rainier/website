@@ -249,16 +249,18 @@ _________________________________________ -->
             {{ interests.content }}
         </div>
     </div>
+{% endfor %} 
+    </div>
             
             
-<!-- Added Physics of things within Experience container -->
+<!-- Added Physics of things within Interest container -->
  <!-- <section class="u-full-width" id="physics"> -->        
         <div class="container" align="center">  
         <div class="headline" align="center">
         <p><span>My Daily Clockwork</span></p>
         <h2>Physics Of Things</h2>
         </div>
-    </div>
+        </div>
     
     <div class="container">
 {% for physics in site.physics %}
@@ -266,12 +268,10 @@ _________________________________________ -->
         <div class="five columns">
            <!-- <h2 class="date">{{ physics.title }}</h2> -->
                 <h2>{{ physics.title }}</h2>
-            </div>
+        </div>
     </div>
-         
 {% endfor %} 
     </div>
-            
-            
+                        
 </section>
 
