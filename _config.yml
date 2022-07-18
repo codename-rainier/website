@@ -25,6 +25,9 @@ collections:
     interests:
         output: false
         title: Interest
+    contributions:
+        output: true
+        title: contribution
     publications:
         output: true
         title: Publication
