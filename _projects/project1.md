@@ -6,4 +6,4 @@ title: "Breathalizer"
 
 ---
 
-A medical device that measures the strength of the patient's breathing. Readings are displayed. Results are sent to doctor via text message.
+A medical device that measures the strength of the patient's breathing. Readings are displayed and results are sent to the patient's doctor via text message for out of clinic monitoring.
