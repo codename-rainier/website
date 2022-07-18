@@ -1,11 +1,11 @@
 ---
 
-title: "Automotive Technician Portfolio" 
+title: "Kuya Juan-Kaibigan" 
 authors: "Rainier Carrasco"
-publisher: PDF Format
-published-date: Updated July 2022
-link: "https://github.com/codename-rainier/CVbin/raw/main/_downloads/portfolio_AT.pdf"
+publisher: Youtube Videos
+published-date: November 2021
+link: "https://www.youtube.com/channel/UCFK4L6NQrSHIKo3LtahFYfg/videos"
 
 ---
 
-Some of the work I've done through the years. Enjoy!
+KJK Desctiption
