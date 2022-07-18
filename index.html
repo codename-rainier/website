@@ -52,7 +52,6 @@ layout: default
         <h2>Exposure</h2>
     </div>
     </div>
-
     <div class="container">    
 {% for experience in site.experience reversed %}
 <!-- Info below is drawn in from the YAML front end -->
@@ -62,9 +61,7 @@ layout: default
                 <h4 class="employer">{{ experience.employer }}</h4>
         </div>
         <div class="seven columns">
-            
 <!-- Info below is drawn in from the YAML title: and the content from the actual .md -->
-            
         <h3>{{ experience.title }}</h3>
             {{ experience.content }}
         </div> 
@@ -72,8 +69,7 @@ layout: default
 {% endfor %}
     </div>
         
-        
- <!-- Added Projects within Experience container -->
+<!-- Added Projects within Experience container -->
 <!-- <section class="u-full-width" id="projects"> -->
 <!-- Info below is the section heading and tagline -->
     <div class="container" align="center">  
