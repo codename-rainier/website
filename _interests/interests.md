@@ -1,7 +1,6 @@
 ---
 
 title: "The Fun Stuff"
-<img src="/website/images/RCthumb.png" alt="Anything RC Related" title="imageT" />  
 
 ---
 
