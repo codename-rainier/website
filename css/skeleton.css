@@ -552,12 +552,12 @@ section {
 /* Alternate Row Colouring 
 ––––––––––––––––––––––––––––––––––––––––––––––––––*/
 
-#experience, #awards, #skills, #physics {
+#experience, #awards, #skills, #physics, #contributions {
     background-color:  #{{ site.colour.alternatestripe }};
     color: #ffffff;
 }
 
-#experience .headline p span, #awards .headline p span, #skills .headline p span, #physics .headline p span   {
+#experience .headline p span, #awards .headline p span, #skills .headline p span, #physics .headline p span, #contributions .headline p span   {
     background-color: #{{ site.colour.alternatestripe }};
 }
 
