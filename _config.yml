@@ -28,6 +28,9 @@ collections:
     contributions:
         output: false
         title: contributions
+    endeavor:
+        output: false
+        title: Endeavor
     publications:
         output: true
         title: Publication
