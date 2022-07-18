@@ -118,13 +118,16 @@
 
 /* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
 @media only screen and (max-device-width: 1366px) {
-  .parallax {
+  .parallax1 {
     background-attachment: scroll;
   }
   .parallax2 {
     background-attachment: scroll;
   }
   .parallax3 {
+    background-attachment: scroll;
+  }
+    .darkbg {
     background-attachment: scroll;
   }
 }
@@ -519,6 +522,21 @@ section {
 .parallax3 {
   /* The image used */
   background-image: url("../images/img_parallax3.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Adding dark background effect of parallax pic */
+.darkbg {
+  /* The image used */
+  background-image: url("../images/darkbg.png");
 
   /* Set a specific height */
   min-height: 500px;
