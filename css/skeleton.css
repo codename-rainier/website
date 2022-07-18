@@ -490,7 +490,7 @@ section {
 /* Adding scrolling effect of background pic */
 .parallax {
   /* The image used */
-  background-image: url("website/_images/img_parallax1.jpg");
+  background-image: url("../images/img_parallax1.jpg");
 
   /* Set a specific height */
   min-height: 500px;
@@ -504,7 +504,7 @@ section {
 
 .parallax2 {
   /* The image used */
-  background-image: url("website/_images/img_parallax2.jpg");
+  background-image: url("../images/img_parallax2.jpg");
 
   /* Set a specific height */
   min-height: 500px;
@@ -518,7 +518,7 @@ section {
 
 .parallax3 {
   /* The image used */
-  background-image: url("website/_images/img_parallax3.jpg");
+  background-image: url("../images/img_parallax3.jpg");
 
   /* Set a specific height */
   min-height: 500px;
