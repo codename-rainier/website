@@ -138,8 +138,8 @@ layout: default
 </section>
     
 
-<!-- Awards -->
-
+<!-- Certificates and Awards blanked out for now -->
+<!--
 <section class="u-full-width parallax1" id="awards"> 
 <div class="u-full-width darkbg">
         <div class="container" align="center">  
@@ -148,9 +148,7 @@ layout: default
             <h2>Certifications</h2>
         </div>
     </div>
-    
     <div class="container">
-            
 {% for certificates in site.certificates reversed %}
     <div class="row">  
         <div class="five columns">
@@ -167,7 +165,40 @@ layout: default
 </div>
 <br></br>        
 </section>
-    
+-->
+
+
+<!-- Contributions -->
+
+<section class="u-full-width parallax1" id="contributions"> 
+<div class="u-full-width darkbg">
+        <div class="container" align="center">  
+        <div class="headline" align="center">
+            <p><span>A Piece Of My Mind</span></p>
+            <h2>Contributions</h2>
+        </div>
+    </div>
+    <div class="container">
+{% for contributions in site.contributions reversed %}
+    <div class="row">  
+        <div class="five columns">
+                <h2 class="date">{{ contributions.published-date }}</h2>
+                <h4 class="institution">{{ contributions.publisher }}</h4>
+            </div>
+         <div class="seven columns">
+            <h3>{{ contributions.title }}</h3>
+             <p class="authors">{{ contributions.authors }}</p>
+             {{ contributions.content}}
+             <p><a href="{{ contributions.link }}" class="button button-primary" target="_blank">Go To</a></p>
+        </div>
+    </div>
+
+{% endfor %} 
+    </div>
+</div>
+<br></br>        
+</section>
+
 
 <!-- Publications -->
 
