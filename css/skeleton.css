@@ -540,7 +540,7 @@ section {
 
   /* Set a specific width and height */
   height: 100%;
-  min-width: 500px;
+  min-width: 550px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
