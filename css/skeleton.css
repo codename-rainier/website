@@ -537,7 +537,7 @@ section {
 .darkbg {
   /* Set a specific width and height */
   height: 100%;
-  min-width: 550px;
+  width: 100%;
 
 }
 
