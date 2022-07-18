@@ -587,8 +587,8 @@ section {
         position: fixed;
         bottom: 10px;
         float: right;
-        right: 18.5%;
-        left: 77.25%;
+        right: 30px;
+        max-height: 30px;
         max-width: 30px;
         width: 100%;
         font-size: 12px;
