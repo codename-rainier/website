@@ -535,9 +535,6 @@ section {
 
 /* Adding dark background effect of parallax pic */
 .darkbg {
-  /* The image used */
-  image: url("../images/darkbg.png");
-
   /* Set a specific width and height */
   height: 100%;
   min-width: 550px;
