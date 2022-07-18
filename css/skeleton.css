@@ -587,7 +587,7 @@ section {
     #myBtn {
         position: fixed;
         bottom: 10px;
-        float: right;
+        float: none;
         right: 30px;
         max-height: 30px;
         max-width: 30px;
