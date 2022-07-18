@@ -586,9 +586,9 @@ section {
 /*Floating Back-To-Top Button*/
     #myBtn {
         position: static;
-        bottom: 10px;
+        bottom: 20px;
         float: none;
-        right: 30px;
+        right: 20px;
         z-index: 1;
         max-height: 30px;
         max-width: 30px;
