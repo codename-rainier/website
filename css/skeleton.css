@@ -542,11 +542,6 @@ section {
   height: 100%;
   min-width: 550px;
 
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 /* Alternate Row Colouring 
