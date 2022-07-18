@@ -101,11 +101,7 @@ layout: default
     <br></br>
 <!-- </section>  -->
         
-        
 </section>    
-
-
-
 
 
 
@@ -118,7 +114,6 @@ layout: default
             <h2>Education</h2>
         </div>
     </div>
-
     <div class="container">
 {% for education in site.education reversed %}
     <div class="row">
@@ -130,9 +125,7 @@ layout: default
             <h3>{{ education.title }}</h3>
             {{ education.content }}
             </div>
-           
     </div>
- 
 {% endfor %}                
     </div>
 </section>
@@ -159,7 +152,6 @@ layout: default
             <h3>{{ certificates.title }}</h3>
         </div>
     </div>
-
 {% endfor %} 
     </div>
 </div>
@@ -177,7 +169,10 @@ layout: default
             <p><span>A Piece Of My Mind</span></p>
             <h2>Contributions</h2>
         </div>
-    </div>
+        </div>
+        <h5>The illiteracy rate in the Phillipines is 8.4% in 1999 and is still increasing. This is roughly 6.7million people who cannot read and write.</h5>
+        <h5>If we remain apathetic towards this growing concern, then how will our fellow countrymen find hope of a better future?</h5>
+        <h5>This is my way of taking a stand. I aim to make an impact - big or small.</h5>
     <div class="container">
 {% for contributions in site.contributions %}
     <div class="row">  
@@ -192,7 +187,6 @@ layout: default
              <p><a href="{{ contributions.link }}" class="button button-primary" target="_blank">Go To</a></p>
         </div>
     </div>
-
 {% endfor %} 
     </div>
 </div>
@@ -203,16 +197,13 @@ layout: default
 <!-- Publications -->
 
 <section class="u-full-width" id="publications"> 
-
     <div class="container" align="center">  
         <div class="headline" align="center">
         <p><span>Downloadable</span></p>
         <h2>Publications</h2>
         </div>
     </div>
-    
     <div class="container">
-        
 {% for publications in site.publications reversed %}        
     <div class="row">  
         <div class="five columns">
@@ -221,14 +212,11 @@ layout: default
             </div>
          <div class="seven columns">
             <h3>{{ publications.title }}</h3>
-        
         <p class="authors">{{ publications.authors }}</p>
-            
         {{ publications.content}}
         <p><a href="{{ publications.link }}" class="button button-primary">Download</a></p>
         </div>
     </div>
-        
 {% endfor %}                 
     </div>
 </section>
@@ -244,9 +232,7 @@ layout: default
         <h2>Practice</h2>
         </div>
     </div>
-    
     <div class="container">
-        
 {% for skills in site.skills reversed %}
     <div class="row">  
         <div class="five columns">
@@ -256,7 +242,6 @@ layout: default
             {{ skills.content }}
         </div>
     </div>
-        
 {% endfor %} 
     </div>
 </div>
@@ -267,14 +252,12 @@ layout: default
 <!-- Interests -->
 
 <section class="u-full-width" id="interests"> 
-
     <div class="container" align="center">  
         <div class="headline" align="center">
         <p><span>Away From My Desk</span></p>
         <h2>Backstage</h2>
         </div>
     </div>
-    
     <div class="container">
 {% for interests in site.interests %}
     <div class="row">  
@@ -289,6 +272,7 @@ layout: default
     </div>
 </section>
             
+
 <!-- Added Physics of things within Interest container -->
  <section class="u-full-width parallax3" id="physics">   
  <div class="u-full-width darkbg">
@@ -298,7 +282,6 @@ layout: default
         <h2>My Physics Of Things | POT</h2>
         </div>
         </div>
-    
     <div class="container">
 {% for physics in site.physics %}
     <div class="row">  
@@ -309,7 +292,6 @@ layout: default
     </div>
 {% endfor %} 
     </div>
-        
 <!-- Added line break -->
     <br></br>
 </div>
