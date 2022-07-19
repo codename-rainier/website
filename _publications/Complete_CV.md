@@ -8,4 +8,4 @@ link: "https://github.com/codename-rainier/CVbin/raw/main/_downloads/CV_RainierM
 
 ---
 
-My Corporate & Entrepreneurial backgound. Everything on my site & more!
+My Corporate & Entrepreneurial background. Everything on my site & more!
