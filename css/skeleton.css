@@ -629,7 +629,7 @@ section {
 }
 
 /* Add animation fadein */
-.animation-fadein {   
+.fadein {   
   transition: opacity 3s, visibility 3s;
   animation-iteration-count:infinite; 
   animation-name: fadein;
