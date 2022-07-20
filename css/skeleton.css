@@ -632,6 +632,7 @@ section {
 /* Add animation fadein */
 .fade-in {   
   animation-duration: 3s;
+  animation-iteration-count: infinite;
   transition-timing-function: linear;
   animation-name: fadeIn;
 }
