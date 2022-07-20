@@ -538,6 +538,8 @@ section {
 .animation-top {
   animation-duration: 2s;
   animation-name: slidein;
+  -webkit-animation: slide 1s forwards;
+  -webkit-animation-delay: 2s;
 }
 
 @keyframes slidein {
@@ -556,6 +558,8 @@ section {
 .animation-right {
   animation-duration: 2s;
   animation-name: slidein;
+  -webkit-animation: slide 1s forwards;
+  -webkit-animation-delay: 2s;
 }
 
 @keyframes slidein {
@@ -594,6 +598,8 @@ section {
 .animation-bottom {
   animation-duration: 2s;
   animation-name: slidein;
+  -webkit-animation: slide 1s forwards;
+  -webkit-animation-delay: 2s;
 }
 
 @keyframes slidein {
