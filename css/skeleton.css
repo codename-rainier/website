@@ -555,7 +555,6 @@ section {
 .animation-right {
   animation-duration: 2s;
   animation-name: slidein;
-  position: relative;
 }
 
 @keyframes slidein {
