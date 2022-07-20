@@ -495,10 +495,8 @@ section {
 .parallax1 {
   /* The image used */
   background-image: url("../images/parallax1.jpg");
-
   /* Set a specific height */
   min-height: 500px;
-
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
@@ -507,13 +505,8 @@ section {
 }
 
 .parallax2 {
-  /* The image used */
   background-image: url("../images/parallax2.jpg");
-
-  /* Set a specific height */
   min-height: 500px;
-
-  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -521,34 +514,94 @@ section {
 }
 
 .parallax3 {
-  /* The image used */
   background-image: url("../images/parallax3.jpg");
-
-  /* Set a specific height */
   min-height: 500px;
-
-  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* Adding dark background effect of parallax pic */
+/* Adding dark background effect of parallax pic so white text can be more visible*/
 .darkbg {
-   /* The image used */
    background-image: url("../images/darkbg.png");
-
-  /* Set a specific width and height */
   height: 100%;
   width: 100%;
-  
-  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/* Add animation effects */
+.animation-top {
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-top: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-top: 0%;
+    width: 100%;
+  }
+}
+
+.animation-right {
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-right: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-right: 0%;
+    width: 100%;
+  }
+}
+
+.animation-left {
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+.animation-bottom {
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-bottom: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-bottom: 0%;
+    width: 100%;
+  }
+}
+
 
 /* Alternate Row Colouring 
 ––––––––––––––––––––––––––––––––––––––––––––––––––*/
