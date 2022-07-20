@@ -558,10 +558,6 @@ section {
     100% { top: 0; }
 }
 
-@keyframes slide {
-    100% { top: 0; }
-}
-
 /* Add animation right */
 .animation-right {
   animation-duration: 2s;
@@ -586,10 +582,6 @@ section {
     100% { right: 0; }
 }
 
-@keyframes slide {
-    100% {right: 0; }
-}
-
 /* Add animation left */
 .animation-left {
   animation-duration: 2s;
@@ -611,10 +603,6 @@ section {
 }
 
 @-webkit-keyframes slide {
-    100% { left: 0; }
-}
-
-@keyframes slide {
     100% { left: 0; }
 }
 
