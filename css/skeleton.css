@@ -571,6 +571,8 @@ section {
 .animation-left {
   animation-duration: 2s;
   animation-name: slidein;
+  -webkit-animation: slide 1s forwards;
+  -webkit-animation-delay: 2s;
 }
 
 @keyframes slidein {
