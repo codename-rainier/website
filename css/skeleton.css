@@ -612,7 +612,7 @@ section {
   animation-name: fadein;
 }
 
-@keyframes fadeIn { 
+@keyframes fadein { 
    from {
 	visibility: hidden;
 	0% {opacity: 0;}
