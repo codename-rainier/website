@@ -533,7 +533,8 @@ section {
   background-size: cover;
 }
 
-/* Add animation effects */
+/* ------------ Add animation effects ------------ */
+/* Add animation top */
 .animation-top {
   animation-duration: 2s;
   animation-name: slidein;
@@ -551,6 +552,7 @@ section {
   }
 }
 
+/* Add animation right */
 .animation-right {
   animation-duration: 2s;
   animation-name: slidein;
@@ -568,6 +570,7 @@ section {
   }
 }
 
+/* Add animation left */
 .animation-left {
   animation-duration: 2s;
   animation-name: slidein;
@@ -587,6 +590,7 @@ section {
   }
 }
 
+/* Add animation bottom */
 .animation-bottom {
   animation-duration: 2s;
   animation-name: slidein;
