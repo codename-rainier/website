@@ -554,6 +554,14 @@ section {
   }
 }
 
+@-webkit-keyframes slide {
+    100% { top: 0; }
+}
+
+@keyframes slide {
+    100% { top: 0; }
+}
+
 /* Add animation right */
 .animation-right {
   animation-duration: 2s;
@@ -572,6 +580,14 @@ section {
     margin-right: 0%;
     width: 100%;
   }
+}
+
+@-webkit-keyframes slide {
+    100% { right: 0; }
+}
+
+@keyframes slide {
+    100% {right: 0; }
 }
 
 /* Add animation left */
@@ -594,6 +610,14 @@ section {
   }
 }
 
+@-webkit-keyframes slide {
+    100% { left: 0; }
+}
+
+@keyframes slide {
+    100% { left: 0; }
+}
+
 /* Add animation bottom */
 .animation-bottom {
   animation-duration: 2s;
@@ -612,6 +636,14 @@ section {
     margin-bottom: 0%;
     width: 100%;
   }
+}
+
+@-webkit-keyframes slide {
+    100% { bottom: 0; }
+}
+
+@keyframes slide {
+    100% { bottom: 0; }
 }
 
 
