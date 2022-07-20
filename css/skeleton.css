@@ -607,12 +607,12 @@ section {
 
 /* Add animation fadein */
 .animation-fadein {
-  animation-name: fadein;
-  animation: fadein 3s;      
+  animation-duration: 5s;      
   animation-iteration-count:infinite; 
+  animation-name: fadein;
 }
 
-@keyframes fadein { 
+@keyframes fadeIn { 
 	0% {opacity: 0;}
 	100% {opacity: 1;}
 }     
