@@ -631,19 +631,17 @@ section {
 
 /* Add animation fadein */
 .fadein {   
-  transition: opacity 3s, visibility 3s;
-  animation-iteration-count:infinite; 
+  animation-duration: 3s;
+  transition-timing-function: linear;
   animation-name: fadein;
 }
 
 @keyframes fadein { 
    from {
-	visibility: hidden;
 	0% {opacity: 0;}
    }
 	
    to {
-	visibility: visibility;
 	100% {opacity: 1;}
    }
 }     
