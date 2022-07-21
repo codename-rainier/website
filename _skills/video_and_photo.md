@@ -1,6 +1,6 @@
 ---
 
-title: "Media Files Editing"
+title: "Photo & Video Editing"
 
 --- 
 
