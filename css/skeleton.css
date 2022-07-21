@@ -480,6 +480,12 @@ section {
  font-style: italic;
 }
 
+.date {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-bottom: 10px;	
+}
+
 #footer {
     margin-top: 50px;
     padding: 50px;
