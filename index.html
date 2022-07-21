@@ -263,8 +263,9 @@ layout: default
     <div class="container">
 {% for skills in site.skills reversed %}
     <div class="row">  
-        <div class="twelve columns">
+        <div class="twelve columns" align="center">
                 <h2 class="date">{{ skills.title }}</h2>
+                <li>_________________________________________</li>
             </div>
     </div>
 {% endfor %} 
@@ -290,7 +291,7 @@ layout: default
         <div class="five columns">
                 <h2 class="date">{{ interests.title }}</h2>
             </div>
-         <div class="seven columns" align="center">
+         <div class="seven columns">
             {{ interests.content }}
         </div>
     </div>
