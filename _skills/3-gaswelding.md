@@ -1,6 +1,6 @@
 ---
 
-title: "Acetylene Gas Welding & Cutting"
+title: "Acetylene Gas Welding, Cutting & Brazing"
 
 --- 
 
