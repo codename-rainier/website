@@ -222,8 +222,8 @@ layout: default
 </section>
     
 
-<!-- Skills -->
-
+<!-- Skills original -->
+<!--
 <section class="u-full-width parallax2" id="skills"> 
 <div class="u-full-width darkbg">
     <div class="container" align="center">  
@@ -247,6 +247,31 @@ layout: default
 </div>
 <br></br>
 </section>
+-->
+
+
+<!-- Skills new -->
+
+<section class="u-full-width parallax2" id="skills"> 
+<div class="u-full-width darkbg">
+    <div class="container" align="center">  
+        <div class="headline" align="center">
+        <p><span>Areas of Expertise</span></p>
+        <h2>Practice</h2>
+        </div>
+    </div>
+    <div class="container">
+{% for skills in site.skills reversed %}
+    <div class="row">  
+        <div class="twelve columns">
+                <h2 class="date">{{ skills.title }}</h2>
+            </div>
+    </div>
+{% endfor %} 
+    </div>
+</div>
+<br></br>
+</section>
 
 
 <!-- Interests -->
@@ -264,7 +289,7 @@ layout: default
         <div class="five columns">
                 <h2 class="date">{{ interests.title }}</h2>
             </div>
-         <div class="seven columns">
+         <div class="seven columns" align="center">
             {{ interests.content }}
         </div>
     </div>
